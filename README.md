@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ ** rachitchauhan18@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Full Stack Projects
+- 🔭 **I’m currently working on:** Full Stack Projects like -> ThaliTrack
 - 🌱 **I’m currently learning:** Mern Stack
 - 👯 **I’m looking to collaborate on:** . FitGenie
 - 🤔 **I’m looking for help with:** Senior Devs
